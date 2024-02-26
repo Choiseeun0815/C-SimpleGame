@@ -22,4 +22,4 @@ Monster가 Food를 먹거나 Human이 Monster에게 잡히면 실패로 끝난�
 # 수행 영상 
 https://github.com/Choiseeun0815/Calendar/assets/103297048/27467c38-ef8a-41e4-a0a7-b656fea02118
 
-![Choiseeun0815's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiseeun0815&show_icons=true)
+
